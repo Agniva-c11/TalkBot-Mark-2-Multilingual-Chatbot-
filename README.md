@@ -1,4 +1,4 @@
-# 🗣️ talkBot — Multilingual Chatbot using NLP & Streamlit
+# 🗣️ TalkBot Mark-2 — Multilingual Chatbot using NLP & Streamlit
 
 This project is a **language-aware chatbot** that allows users to interact in **any language** and receive responses in the **same language**. It uses **machine learning-based intent classification** along with **language detection and translation** to support multilingual communication through a clean and interactive **Streamlit** web interface.
 

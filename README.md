@@ -3,6 +3,10 @@
 This project is a **language-aware chatbot** that allows users to interact in **any language** and receive responses in the **same language**. It uses **machine learning-based intent classification** along with **language detection and translation** to support multilingual communication through a clean and interactive **Streamlit** web interface.
 
 ---
+# Live Demo
+
+🚀 Try the chatbot live here:  
+👉TalkBot Mark-2 Streamlit App : (https://g66gdbmmatazkcam3usgwx.streamlit.app/)
 
 ## 📌 Project Structure
 
